@@ -1,1 +1,2 @@
-# cbk-sponsor-thanks
+# Coded by Kids: Sponsors
+> Thank You!
