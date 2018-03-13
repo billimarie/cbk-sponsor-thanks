@@ -1,0 +1,1 @@
+# cbk-sponsor-thanks
